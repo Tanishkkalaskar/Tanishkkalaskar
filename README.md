@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm currently working as a Full Stack Developer in Cognizant Technology Solutions
+💻 &nbsp;I'm currently working as a Full Stack Developer in Cognizant Technology Solutions.\
 👀 &nbsp;My hobbies are watching movies. Some of my favourites are The Shawshank Redemption, Lakshya, Yeh Jawaani Hai Deewani.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
 📫 &nbsp;You can reach me at: tanishkkalaskar1707@gmail.com. I will reply asap, I promise!\
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
