@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;I'm currently working as a Full Stack Developer in Cognizant Technology Solutions.\
-👀 &nbsp;My hobbies are watching movies. Some of my favourites are The Shawshank Redemption, Lakshya, Yeh Jawaani Hai Deewani.\
+👀 &nbsp;My hobbies are watching movies & reading books. Some of my favourites movies are Lakshya, Yeh Jawaani Hai Deewani and books are Atomic Habits, Eat that frog.\
 💞️ &nbsp;I’m looking to collaborate on projects.\
 📫 &nbsp;You can reach me at: tanishkkalaskar1707@gmail.com. I will reply asap, I promise!\
 
 ### 🔗 &nbsp;Connect with me:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/jadhav-kunal](https://www.linkedin.com/in/tanishk-kalaskar-849292194/))
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/jadhav-kunal](https://leetcode.com/tanishkkalaskar/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishk-kalaskar-849292194/)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tanishkkalaskar/)
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
